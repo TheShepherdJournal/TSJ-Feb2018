@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-02-04 15:40:39
 ---
-Community members gathered inside the Shepherd Bar &amp; Grill Restaurant Saturday afternoon to participate in a charity auction held to raise money for Shepherd's Train Depot. A number of items, donated by local businesses, were on display inside the restaurant prior to the start at auction. Steve Davidson served as the auctioneer, describing each item and then taking bids.<!--more-->
+Community members gathered inside the Shepherd Bar &amp; Grill Restaurant Saturday afternoon to participate in a charity auction held to raise money for Shepherd's Train Depot. A number of items, donated by local businesses, were on display inside the restaurant prior to the start at auction. Steve Davidson served as the auctioneer, describing each item and then taking bids.
 
 Here are photos from the event:
 
