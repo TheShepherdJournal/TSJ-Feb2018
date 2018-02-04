@@ -16,11 +16,9 @@ From the <a href="https://www.facebook.com/permalink.php?story_fbid=181184883883
 <blockquote>We are SO pumped up that SOAR - Ready to Fly is coming to the Shepherd Middle School in March for our 6th-8th grade boys. This is the male equivalent to our fem<span class="text_exposed_show">ale event SHINE - Diamonds in the Rough.</span>
 
 We already have 3 speakers committed for the event:
-
-Timothy (Tim) Eldred - CEO, Author, Speaker. Tim is known as an unrelenting voice for the next generation with a reputation for challenging the status quo. The word he will speak on is RELENTLESS.
-
-Jay Lafoon - CEO, Author, Speaker. Jay’s combination of power-packed delivery and laugh-out-loud humor holds audiences captivated. Through insights and real-life illustrations, Jay motivates and inspires his audience to action. The word he will speak on is LEAD.
-
-Tom Olver - CEO, Speaker. Tom is a dynamic leader and seasoned professional with experience in organizational leadership and communications management, strategy development and implementation, fundraising, event planning and more. The word he will speak on is SERVE.
-
+<ul>
+ 	<li>Timothy (Tim) Eldred - CEO, Author, Speaker. Tim is known as an unrelenting voice for the next generation with a reputation for challenging the status quo. The word he will speak on is RELENTLESS.</li>
+ 	<li>Jay Lafoon - CEO, Author, Speaker. Jay’s combination of power-packed delivery and laugh-out-loud humor holds audiences captivated. Through insights and real-life illustrations, Jay motivates and inspires his audience to action. The word he will speak on is LEAD.</li>
+ 	<li>Tom Oliver - CEO, Speaker. Tom is a dynamic leader and seasoned professional with experience in organizational leadership and communications management, strategy development and implementation, fundraising, event planning and more. The word he will speak on is SERVE.</li>
+</ul>
 Our Department is committed to being proactive in reaching our youth. They are our greatest asset and we are excited to watch them SOAR and SHINE!</blockquote>
