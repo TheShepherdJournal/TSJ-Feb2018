@@ -1,7 +1,7 @@
 ---
 ID: 1269
 post_title: >
-  Shepherd Police Department relases
+  Shepherd Police Department releases
   Bullying PSA
 author: Jon
 post_excerpt: ""
