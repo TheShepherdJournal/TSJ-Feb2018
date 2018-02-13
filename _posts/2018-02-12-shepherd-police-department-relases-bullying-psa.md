@@ -11,8 +11,6 @@ permalink: >
 published: true
 post_date: 2018-02-12 23:15:55
 ---
-&nbsp;
-
 Shepherd Police Department Chief Luke Sawyer talked to Shepherd Middle School’s principal Ben Brock in the <a href="https://youtu.be/Gi9yI7zNGPk">SPD’s most recent PSA</a> about the procedure that middle school staff follow when addressing reports of bullying.
 
 #
