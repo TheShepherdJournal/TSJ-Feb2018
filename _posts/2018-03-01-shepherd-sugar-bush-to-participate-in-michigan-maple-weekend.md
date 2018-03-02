@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-03-01 19:10:29
 ---
-<b><img title="" src="http://shepherdjournal.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/02/null-1.jpeg" alt="" width="624" height="468" /></b>
+&nbsp;
 
 The Shepherd Sugar Bush will hold its annual open house as a part of the Michigan Maple Syrup Association’s Michigan Maple Weekend. The dates when the Shepherd Sugar Bush will be open is March 17-18 from 10 a.m. to 4 p.m.
 
